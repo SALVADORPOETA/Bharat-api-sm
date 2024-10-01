@@ -14,14 +14,7 @@ const app = express()
 const PORT = 5000
 
 const corsOptions = {
-  origin: [
-    'http://localhost:3000',
-    'http://localhost:3001',
-    'http://localhost:3002',
-    'http://localhost:3004',
-    'http://localhost:3005',
-    'https://bharat-sm.vercel.app',
-  ],
+  origin: '*',
   methods: ['GET', 'POST', 'PATCH', 'DELETE'],
 }
 
