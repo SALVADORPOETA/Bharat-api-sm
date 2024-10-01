@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "section": "Bronze Age (c. 3300 – c. 1800 BCE)",
-    "p1": "The Bronze Age in the Indian subcontinent began around 3300 BCE. The Indus Valley was one of the three major cradles of Old World civilization, with a population possibly exceeding five million at its peak. The Indus civilization was primarily centered in modern-day Pakistan's Indus river basin and the Ghaggar-Hakra basin. It flourished from 2600 to 1900 BCE, marking the rise of urban life in the Indian subcontinent. Major cities included Harappa, Mohenjo-daro (Pakistan), and Dholavira, Lothal (India).",
-    "p2": "During the 2nd millennium BCE, the Ochre Coloured Pottery culture thrived in the Ganga-Yamuna Doab region. These rural settlements practiced agriculture, hunting, and used copper tools like axes, spears, arrows, and swords, along with domesticated animals.",
-    "title": "Lothal",
-    "image": "https://bharat-api-sm.vercel.app/assets/history1.jpg",
-    "description": "Lothal, a key city of the Harappan civilization, was a major port in present-day Gujarat, India. Dating back to around 2400 BCE, it played a crucial role in trade, connecting the Indus Valley to regions like Mesopotamia."
-  },
-  {
     "id": 2,
     "section": "Iron Age (c. 1800 – 200 BCE)",
     "p1": "In both North and South India, iron use began early. Radiocarbon dating in Uttar Pradesh dates iron artifacts to between 1800 and 1000 BCE, particularly in the Central Ganga Plain and Eastern Vindhyas. This period coincides with the migration of later Vedic people, who influenced material culture. New findings suggest India independently developed ironworking.",
