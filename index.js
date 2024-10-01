@@ -22,6 +22,7 @@ const corsOptions = {
     'http://localhost:3005',
     'https://bharat-sm.vercel.app',
   ],
+  methods: ['GET', 'POST', 'PATCH', 'DELETE'],
 }
 
 app.use(cors(corsOptions))
