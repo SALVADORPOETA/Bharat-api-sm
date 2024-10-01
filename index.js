@@ -20,7 +20,7 @@ const corsOptions = {
     'http://localhost:3002',
     'http://localhost:3004',
     'http://localhost:3005',
-    'https://kemet-sm.vercel.app',
+    'https://bharat-sm.vercel.app',
   ],
 }
 
